@@ -1,0 +1,28 @@
+/* Footer styles
+-------------------------------------------------- */
+#footer {
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: auto;
+    background:
+        /* color overlay */
+
+    linear-gradient(
+            rgba(240, 83, 105, 0.45),
+            rgba(0, 0, 0, 0.45)
+    ),
+        /* image to overlay */
+    url(/images/bg-2-full.jpg);
+
+}
+
+
+
+/* Custom footer CSS
+-------------------------------------------------- */
+.container .text-muted {
+    margin: 20px 0;
+}
+.footertext {
+    color: blue;
+}
