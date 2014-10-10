@@ -2,24 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="068e9878-057d-441c-9c1b-9db39b590622" name="Default" comment="Menu and footer, first second version">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/carousel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sguerrab.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/socialbar.html" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\partials\footer.html" afterPath="" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\404.html" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/modal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/portfolio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/modal_projects/project1.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/modal_projects/project2.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/modal_projects/project3.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/modal_projects/project4.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/modal_projects/project5.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/modal_projects/project6.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/spinning.less" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\css\custom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\core.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\path.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\spinning.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_spinning.scss" afterPath="" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\css\modern-business.css" afterPath="$PROJECT_DIR$/css/dyna-style.css" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\css\font-awesome.css" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/css/font-awesome.css" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\bordered-pulled.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\fixed-width.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/fixed-width.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\icons.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/icons.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\larger.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/larger.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\list.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/list.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\mixins.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/mixins.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\rotated-flipped.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\stacked.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/stacked.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\less\variables.less" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/less/variables.less" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_bordered-pulled.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_fixed-width.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_icons.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_icons.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_larger.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_larger.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_list.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_list.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_mixins.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_path.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_path.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_rotated-flipped.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_stacked.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\_variables.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/_variables.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\font-awesome-4.1.0\scss\font-awesome.scss" afterPath="$PROJECT_DIR$/font-awesome-4.2.0/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.php" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Dyna-modern-business.iml" afterPath="$PROJECT_DIR$/.idea/Dyna-modern-business.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-home-1.html" afterPath="$PROJECT_DIR$/blog-home-1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-home-2.html" afterPath="$PROJECT_DIR$/blog-home-2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-post.html" afterPath="$PROJECT_DIR$/blog-post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/footer.css" afterPath="$PROJECT_DIR$/css/footer.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/full-width.html" afterPath="$PROJECT_DIR$/full-width.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modern-business.css" afterPath="$PROJECT_DIR$/css/modern-business.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/menu.html" afterPath="$PROJECT_DIR$/partials/menu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-1-col.html" afterPath="$PROJECT_DIR$/portfolio-1-col.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-2-col.html" afterPath="$PROJECT_DIR$/portfolio-2-col.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-3-col.html" afterPath="$PROJECT_DIR$/portfolio-3-col.html" />
@@ -28,7 +76,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sidebar.html" afterPath="$PROJECT_DIR$/sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Dyna-modern-business.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,54 +101,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538" vertical-offset="459" max-vertical-offset="3587">
-              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.15711646" vertical-offset="0" max-vertical-offset="4369">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
               <folding>
-                <marker date="1412884206450" expanded="true" signature="5949:5984" placeholder="..." />
+                <element signature="e#7#35#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="2227">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modern-business.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/modern-business.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2299" max-vertical-offset="2941">
-              <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/footer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="646">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25073746" vertical-offset="2720" max-vertical-offset="4233">
-              <caret line="170" column="21" selection-start-line="170" selection-start-column="21" selection-end-line="170" selection-end-column="21" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -120,9 +128,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/partials/carousel.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/custom.css" />
-        <option value="$PROJECT_DIR$/partials/menu.html" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/404.php" />
         <option value="$PROJECT_DIR$/css/modern-business.css" />
@@ -130,8 +136,22 @@
         <option value="$PROJECT_DIR$/partials/socialbar.html" />
         <option value="$PROJECT_DIR$/css/footer.css" />
         <option value="$PROJECT_DIR$/partials/footer.php" />
+        <option value="$PROJECT_DIR$/partials/menu.html" />
+        <option value="$PROJECT_DIR$/partials/modal.php" />
+        <option value="$PROJECT_DIR$/css/portfolio" />
+        <option value="$PROJECT_DIR$/css/dyna-style.css" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project2.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project6.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project1.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project5.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project4.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project3.inc" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="inc" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -209,7 +229,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modal_projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,7 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/fr(1)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dyna-laravel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
@@ -255,14 +279,17 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Dyna-modern-business\partials\modal_projects" />
+      <recent name="C:\xampp\htdocs\Dyna-modern-business" />
       <recent name="C:\xampp\htdocs\Dyna-modern-business\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\Dyna-modern-business\images" />
       <recent name="C:\xampp\htdocs\Dyna-modern-business" />
+      <recent name="C:\xampp\htdocs\Dyna-modern-business\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -329,22 +356,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14630872" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14516129" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20733428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25358167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22492836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22492836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47516778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -381,7 +408,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="3587">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="41" />
           <folding>
-            <marker date="1412884206450" expanded="true" signature="5949:5984" placeholder="..." />
+            <element signature="e#7#35#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -394,7 +421,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
+    <entry file="file://$PROJECT_DIR$/css/dyna-style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2299" max-vertical-offset="2941">
           <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
@@ -449,7 +476,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="3587">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="41" />
           <folding>
-            <marker date="1412884206450" expanded="true" signature="5949:5984" placeholder="..." />
+            <element signature="e#7#35#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -462,7 +489,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
+    <entry file="file://$PROJECT_DIR$/css/dyna-style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2299" max-vertical-offset="2941">
           <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
@@ -507,7 +534,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="3502">
           <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
           <folding>
-            <marker date="1412884206450" expanded="true" signature="5949:5984" placeholder="..." />
+            <element signature="e#7#35#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,13 +544,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -532,7 +552,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="3502">
           <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
           <folding>
-            <marker date="1412884206450" expanded="true" signature="5949:5984" placeholder="..." />
+            <element signature="e#7#35#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -545,19 +565,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5389">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1412884206450" expanded="true" signature="5949:5984" placeholder="..." />
+            <element signature="e#7#35#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -569,31 +582,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
+    <entry file="file://$PROJECT_DIR$/css/dyna-style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="842" max-vertical-offset="1683">
           <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.114285" vertical-offset="7803" max-vertical-offset="105553">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -601,50 +593,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.5189004" vertical-offset="0" max-vertical-offset="2771">
           <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2299" max-vertical-offset="2941">
-          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538" vertical-offset="459" max-vertical-offset="3587">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="41" />
-          <folding>
-            <marker date="1412884206450" expanded="true" signature="5949:5984" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="2227">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39218524" vertical-offset="52" max-vertical-offset="765">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -666,9 +615,153 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25073746" vertical-offset="2720" max-vertical-offset="4233">
+        <state vertical-scroll-proportion="-111.15385" vertical-offset="0" max-vertical-offset="4233">
           <caret line="170" column="21" selection-start-line="170" selection-start-column="21" selection-end-line="170" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667" vertical-offset="1275" max-vertical-offset="1938">
+          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.2.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28526">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47640118" vertical-offset="102" max-vertical-offset="2822">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57322174" vertical-offset="303" max-vertical-offset="1088">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-1-col.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.887522" vertical-offset="2062" max-vertical-offset="4879">
+          <caret line="151" column="22" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dyna-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3047" max-vertical-offset="3587">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6153846" vertical-offset="875" max-vertical-offset="2193">
+          <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="170" selection-end-column="18" />
+          <folding>
+            <element signature="tag#nav#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="92450" max-vertical-offset="105553">
+          <caret line="5452" column="0" selection-start-line="5452" selection-start-column="0" selection-end-line="5452" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="765">
+          <caret line="19" column="104" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="104" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project6.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="29" column="100" selection-start-line="29" selection-start-column="100" selection-end-line="29" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project5.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="29" column="106" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project4.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="29" column="106" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project3.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="29" column="106" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project2.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.653847" vertical-offset="51" max-vertical-offset="1275">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project1.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4519941" vertical-offset="187" max-vertical-offset="1275">
+          <caret line="29" column="106" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15711646" vertical-offset="0" max-vertical-offset="4369">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="e#7#35#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

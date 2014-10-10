@@ -1,6 +1,7 @@
 <?php
- // TODO Fill the menu
+// TODO Fill the menu --DONE
  // TODO play with color
+// TODO Add date of the day
  // TODO make it online with private access
 ?>
 <!DOCTYPE html>
@@ -23,11 +24,11 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/modern-business.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="css/dyna-style.css" rel="stylesheet">
     <link href="./css/footer.css" rel="stylesheet" type="text/css">
+    <link href="./css/portfolio.css" rel="stylesheet" type="text/css">
+    <!-- Custom Fonts -->
+    <link href="font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -54,7 +55,7 @@
     <div class="container">
 
         <!-- Marketing Icons Section -->
-        <div class="row">
+        <div class="row" id="marketing-icons">
             <div class="col-lg-12">
                 <h1 class="page-header">
                    Bienvenue chez Dynagroup technologies. <small>Solutions de dépoussièrage sur mesure</small>
@@ -74,7 +75,7 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-tachometer"></i> Maintenance</h4>
+                        <h4><span class="glyphicon glyphicon-wrench"></span> Maintenance</h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
@@ -96,48 +97,96 @@
         </div>
         <!-- /.row -->
 
-        <!-- Portfolio Section -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Nos Réalisations</h2>
+        <!-- Portfolio Grid Section -->
+        <section id="portfolio">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2>Nos Réalisations</h2>
+                        <hr class="star-primary">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 col-md-4 portfolio-item">
+                        <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 col-md-4 portfolio-item">
+                        <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 col-md-4 portfolio-item">
+                        <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 col-md-4 portfolio-item">
+                        <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 col-md-4 portfolio-item">
+                        <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 col-md-4 portfolio-item">
+                        <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                        </a>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-        </div>
+        </section>
         <!-- /.row -->
-
+        <!-- Portfolio Modals -->
+        <?php
+        include_once("partials/modal_projects/project1.inc");
+        include_once("partials/modal_projects/project2.inc");
+        include_once("partials/modal_projects/project3.inc");
+        include_once("partials/modal_projects/project4.inc");
+        include_once("partials/modal_projects/project5.inc");
+        include_once("partials/modal_projects/project6.inc");
+        ?>
         <!-- Features Section -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Champs d'expertise</h2>
+        <div class="row" id="Features">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Champs d'expertise</h2>
+                    <hr class="star-primary">
+                </div>
             </div>
             <div class="col-md-6">
                 <p>Notre domaine d'expertise est large et touche à plusieurs industries, dont:</p>
@@ -163,7 +212,7 @@
         <hr>
 
         <!-- Call to Action Section -->
-        <div class="well">
+        <div class="well" id="call-to-action">
             <div class="row">
                 <div class="col-md-8">
                     <p>Nous sommes à votre écoute, envoyez-nous un message ou appellez-nous pour vous aider à
@@ -176,9 +225,6 @@
         </div>
 
         <hr>
-
-
-
     </div>
     <!-- /.container -->
 
