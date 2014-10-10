@@ -4,19 +4,19 @@
     width: 100%;
     /* Set the fixed height of the footer here */
     height: auto;
-    background:
+    background-color: #B31F24;
+   /* background-color:
         /* color overlay */
-
+/*
     linear-gradient(
-            rgba(240, 83, 105, 0.45),
+            rgba(236, 74, 11, 0.45),
             rgba(0, 0, 0, 0.45)
     ),
         /* image to overlay */
-    url(/images/bg-2-full.jpg);
+    /*url(./../images/bg-2-full.jpg);*/
+
 
 }
-
-
 
 /* Custom footer CSS
 -------------------------------------------------- */
@@ -24,5 +24,9 @@
     margin: 20px 0;
 }
 .footertext {
-    color: blue;
+    color: #FFF;
 }
+#footer a {
+    color: #232162;
+}
+
