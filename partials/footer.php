@@ -13,7 +13,7 @@
                 <ul class="footertext list-unstyled">
                     <li><i class="fa fa-phone"></i> Téléphone: 514.337.3377</li>
                     <li><i class="fa fa-fax"></i> Fax: 514-832-0989</li>
-                    <li><i class="fa fa-envelope-o"></i> Courriel: <a href="">dynagroup@dynagroup-tech.com</a></li>
+                    <li><i class="fa fa-at"></i> Courriel: <a href="">dynagroup@dynagroup-tech.com</a></li>
                 </ul>
             </div>
             <div class="col-md-4">
