@@ -1,0 +1,20 @@
+/* Footer styles
+-------------------------------------------------- */
+
+#footer {
+  /* Set the fixed height of the footer here */
+  height: auto;
+  background-color: $dyna_red;
+  .footertext {
+    color: #FFF;
+  }
+  a {
+    color: $dyna_dark_blue;
+  }
+  .fa-stack-2x {
+    color: $dyna_dark_blue;
+  }
+  h4 {
+    color: $dyna_dark_blue;
+  }
+}

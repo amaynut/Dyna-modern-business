@@ -6,7 +6,7 @@ if(empty($_POST['name'])  		||
    empty($_POST['message'])	||
    !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
    {
-	echo "No arguments Provided!";
+       echo "Tous les champs sont obligatoires";
 	return false;
    }
 	
@@ -16,10 +16,11 @@ $email_address = $_POST['email'];
 $message = $_POST['message'];
 	
 // create email body and send it	
-$to = 'your-email@your-domain.com'; // PUT YOUR EMAIL ADDRESS HERE
-$email_subject = "Modern Business Contact Form:  $name"; // EDIT THE EMAIL SUBJECT LINE HERE
-$email_body = "You have received a new message from your website's contact form.\n\n"."Here are the details:\n\nName: $name\n\nPhone: $phone\n\nEmail: $email_address\n\nMessage:\n$message";
-$headers = "From: noreply@your-domain.com\n";
+$to = 'said.guerrab@gmail.com';
+$email_subject = "Email via Dynagroup-tech.com :  $name";
+$email_body = "Vous avez un nouveau message via le formulaire de contact sur Dynagroup-tech.com .\n\n"
+    . "Voici son contenu:\n\nName: $name\n\nTéléphone: $phone\n\nEmail: $email_address\n\nMessage:\n$message";
+$headers = "From: $email_address\n";
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);
 return true;			

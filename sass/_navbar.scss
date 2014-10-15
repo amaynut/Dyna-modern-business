@@ -1,0 +1,152 @@
+/**           Navigation bar          */
+.navbar {
+  background-color: $dyna_light_red;
+  background-color: $dyna_red;
+}
+
+.navbar-toggle {
+  background-color: $dyna_blue;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+  color: $dyna_blue;
+  background-color: transparent;
+}
+
+.navbar-inverse {
+
+  /*navigation menu*******************************/
+
+  .navbar-nav {
+    background-color: $dyna_light_blue;
+    background-color: $dyna_blue;
+
+    i {
+      color: $dyna_light_red;
+    }
+    li {
+      a {
+        color: #FFF;
+        &:hover {
+          color: $dyna_light_red;
+        }
+      }
+      &:hover {
+        background-color: #fff;
+      }
+    }
+  }
+  /*Brand section***************************************/
+  .navbar-brand {
+    color: #232162;
+    img {
+      height: 100%;
+      margin-top: -3px;
+      margin-right: 5px;
+    }
+  }
+  .dropdown-menu {
+    background-color: $dyna_light_blue;
+  }
+  /* sub menu */
+  .dropdown-submenu {
+    position: relative;
+
+    .dropdown-submenu > .dropdown-menu {
+      top: 0;
+      left: 100%;
+      margin-top: -6px;
+      margin-left: -1px;
+      -webkit-border-radius: 0 6px 6px 6px;
+      -moz-border-radius: 0 6px 6px;
+      border-radius: 0 6px 6px 6px;
+    }
+
+    .dropdown-submenu:hover > .dropdown-menu {
+      display: block;
+    }
+
+    .dropdown-submenu > a:after {
+      display: block;
+      content: " ";
+      float: right;
+      width: 0;
+      height: 0;
+      border-color: transparent;
+      border-style: solid;
+      border-width: 5px 0 5px 5px;
+      border-left-color: #ccc;
+      margin-top: 5px;
+      margin-right: -10px;
+    }
+
+    .dropdown-submenu:hover > a:after {
+      border-left-color: #fff;
+    }
+
+    .dropdown-submenu.pull-left {
+      float: none;
+    }
+
+    .dropdown-submenu.pull-left > .dropdown-menu {
+      left: -100%;
+      margin-left: 10px;
+      -webkit-border-radius: 6px 0 6px 6px;
+      -moz-border-radius: 6px 0 6px 6px;
+      border-radius: 6px 0 6px 6px;
+    }
+  }
+
+  .dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+  }
+
+  .dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+  }
+
+  .dropdown-submenu > a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+  }
+
+  .dropdown-submenu:hover > a:after {
+    border-left-color: #fff;
+  }
+
+  .dropdown-submenu.pull-left {
+    float: none;
+  }
+
+  .dropdown-submenu.pull-left > .dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+  }
+
+}
+
+/* fix the hover color problem for mobile*/
+@media (max-width: 760px) {
+  .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #333;
+    background-color: transparent;
+  }
+}

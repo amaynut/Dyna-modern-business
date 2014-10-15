@@ -4,28 +4,243 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
 /* Global Styles */
+/*Import the partials*/
+@import url(http://fonts.googleapis.com/css?family=Nunito|Arvo|Anton);
 
-html,
-body {
+.container li {
+    font-family: 'Arvo', serif;
+}
+
+.container p {
+    font-family: 'Nunito', sans-serif;
+    text-align: justify;
+}
+
+.container h1 {
+    font-family: 'Anton', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Anton', sans-serif;
+}
+
+/**           Navigation bar          */
+.navbar {
+    background-color: #e98285;
+    background-color: #b31f24;
+}
+
+.navbar-toggle {
+    background-color: #232162;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+    color: #232162;
+    background-color: transparent;
+}
+
+.navbar-inverse {
+    /*navigation menu*******************************/
+    /*Brand section***************************************/
+    /* sub menu */
+}
+
+.navbar-inverse .navbar-nav {
+    background-color: #5956c6;
+    background-color: #232162;
+}
+
+.navbar-inverse .navbar-nav i {
+    color: #e98285;
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: #FFF;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+    color: #e98285;
+}
+
+.navbar-inverse .navbar-nav li:hover {
+    background-color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #232162;
+}
+
+.navbar-inverse .navbar-brand img {
     height: 100%;
+    margin-top: -3px;
+    margin-right: 5px;
 }
 
-body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+.navbar-inverse .dropdown-menu {
+    background-color: #5956c6;
 }
 
-.img-portfolio {
+.navbar-inverse .dropdown-submenu {
+    position: relative;
+}
+
+.navbar-inverse .dropdown-submenu .dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.navbar-inverse .dropdown-submenu .dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+
+.navbar-inverse .dropdown-submenu .dropdown-submenu > a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.navbar-inverse .dropdown-submenu .dropdown-submenu:hover > a:after {
+    border-left-color: #fff;
+}
+
+.navbar-inverse .dropdown-submenu .dropdown-submenu.pull-left {
+    float: none;
+}
+
+.navbar-inverse .dropdown-submenu .dropdown-submenu.pull-left > .dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.navbar-inverse .dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.navbar-inverse .dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+
+.navbar-inverse .dropdown-submenu > a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.navbar-inverse .dropdown-submenu:hover > a:after {
+    border-left-color: #fff;
+}
+
+.navbar-inverse .dropdown-submenu.pull-left {
+    float: none;
+}
+
+.navbar-inverse .dropdown-submenu.pull-left > .dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+/* fix the hover color problem for mobile*/
+@media (max-width: 760px) {
+    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #333;
+        background-color: transparent;
+    }
+}
+
+.portfolio-modal .modal-content {
+    padding: 100px 0;
+    min-height: 100%;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.portfolio-modal .modal-content h2 {
+    margin: 0;
+    font-size: 3em;
+}
+
+.portfolio-modal .modal-content img {
     margin-bottom: 30px;
 }
 
-.img-hover:hover {
-    opacity: 0.8;
+.portfolio-modal .modal-content .item-details {
+    margin: 30px 0;
+}
+
+.portfolio-modal .close-modal {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.portfolio-modal .close-modal:hover {
+    opacity: .3;
+}
+
+.portfolio-modal .close-modal .lr {
+    z-index: 1051;
+    width: 1px;
+    height: 75px;
+    margin-left: 35px;
+    background-color: #2c3e50;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.portfolio-modal .close-modal .lr .rl {
+    z-index: 1052;
+    width: 1px;
+    height: 75px;
+    background-color: #2c3e50;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
 
 /* Home Page Carousel */
-
 header.carousel {
     height: 50%;
 }
@@ -43,137 +258,28 @@ header.carousel .fill {
     background-size: cover;
 }
 
-/* 404 Page Styles */
-
-.error-404 {
-    font-size: 100px;
+/* Footer styles
+-------------------------------------------------- */
+#footer {
+    /* Set the fixed height of the footer here */
+    height: auto;
+    background-color: #b31f24;
 }
 
-/* Pricing Page Styles */
-
-.price {
-    display: block;
-    font-size: 50px;
-    line-height: 50px;
+#footer .footertext {
+    color: #FFF;
 }
 
-.price sup {
-    top: -20px;
-    left: 2px;
-    font-size: 20px;
+#footer a {
+    color: #15143c;
 }
 
-.period {
-    display: block;
-    font-style: italic;
+#footer .fa-stack-2x {
+    color: #15143c;
 }
 
-/* Footer Styles */
-
-footer {
-    margin: 50px 0;
-}
-
-/* Responsive Styles */
-
-@media(max-width:991px) {
-    .customer-img,
-    .img-related {
-        margin-bottom: 30px;
-    }
-}
-
-@media(max-width:767px) {
-    .img-portfolio {
-        margin-bottom: 15px;
-    }
-
-    header.carousel .carousel {
-        height: 70%;
-    }
-}
-
-/* *************************** ****       added style *********************************************** */
-
-
-/**           Navigation bar          */
-.navbar {
-    background-color: #fff;
-}
-.navbar-brand img {
-    height: 100%;
-    margin-top: -3px;
-    margin-right: 5px;
-}
-.navbar-toggle {
-    background-color: #232162;
-}
-.navbar-inverse .navbar-nav > li > a:hover {
-    color: #232162;
-}
-.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
-    color: #232162;
-    background-color: transparent;
-}
-
-.navbar i {
-    color: #232162;
-}
-/* sub menu */
-.dropdown-submenu {
-    position: relative;
-}
-
-.dropdown-submenu>.dropdown-menu {
-    top: 0;
-    left: 100%;
-    margin-top: -6px;
-    margin-left: -1px;
-    -webkit-border-radius: 0 6px 6px 6px;
-    -moz-border-radius: 0 6px 6px;
-    border-radius: 0 6px 6px 6px;
-}
-
-.dropdown-submenu:hover>.dropdown-menu {
-    display: block;
-}
-
-.dropdown-submenu>a:after {
-    display: block;
-    content: " ";
-    float: right;
-    width: 0;
-    height: 0;
-    border-color: transparent;
-    border-style: solid;
-    border-width: 5px 0 5px 5px;
-    border-left-color: #ccc;
-    margin-top: 5px;
-    margin-right: -10px;
-}
-
-.dropdown-submenu:hover>a:after {
-    border-left-color: #fff;
-}
-
-.dropdown-submenu.pull-left {
-    float: none;
-}
-
-.dropdown-submenu.pull-left>.dropdown-menu {
-    left: -100%;
-    margin-left: 10px;
-    -webkit-border-radius: 6px 0 6px 6px;
-    -moz-border-radius: 6px 0 6px 6px;
-    border-radius: 6px 0 6px 6px;
-}
-
-/* fix the hover color problem for mobile*/
-@media (max-width: 760px) {
-    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
-        color: #333;
-        background-color: transparent;
-    }
+#footer h4 {
+    color: #15143c;
 }
 
 /* hr element**/
@@ -208,14 +314,87 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #b31f24;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    color: #232162;
     background-color: #fff;
 }
 
+/* headers h1, h2, ....*/
+h1 {
+    color: #232162;
+}
+
+h1 small {
+    color: #b31f24;
+}
+
+h2 {
+    color: #232162;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* 404 Page Styles */
+.error-404 {
+    font-size: 100px;
+}
+
+/* Pricing Page Styles */
+.price {
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.price sup {
+    top: -20px;
+    left: 2px;
+    font-size: 20px;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+
+/* Responsive Styles */
+@media (max-width: 991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+    }
+}
+
+/* *************************** ****       added style *********************************************** */
 /*marketing panel */
 .panel-default > .panel-heading {
     background-color: #232162;
@@ -223,11 +402,16 @@ hr.star-primary:after {
 }
 
 .panel-default > .panel-body {
-    background-color: #B31F24;
+    background-color: #b31f24;
     color: white;
 }
 
-/* headers h1, h2, ....*/
-h1 {
-    color: #232162;
+/*Call to action button*/
+#call-to-action {
+    background-color: #e98285;
+}
+
+#call-to-action .btn {
+    background-color: #5956c6;
+    color: white;
 }

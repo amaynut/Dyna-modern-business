@@ -1,6 +1,6 @@
 <?php
 // TODO Fill the menu --DONE
- // TODO play with color
+// TODO play with color --DONE
 // TODO Add date of the day
  // TODO make it online with private access
 ?>
@@ -25,8 +25,6 @@
 
     <!-- Custom CSS -->
     <link href="css/dyna-style.css" rel="stylesheet">
-    <link href="./css/footer.css" rel="stylesheet" type="text/css">
-    <link href="./css/portfolio.css" rel="stylesheet" type="text/css">
     <!-- Custom Fonts -->
     <link href="font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
@@ -44,10 +42,10 @@
 
     <?php
     //Navigation
-    include_once("./partials/menu.html");
+    include_once("./partials/menu.inc");
 
     // header carousel
-    include_once("./partials/carousel.html");
+    include_once("./partials/carousel.inc");
     ?>
 
 
@@ -58,7 +56,8 @@
         <div class="row" id="marketing-icons">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                   Bienvenue chez Dynagroup technologies. <small>Solutions de dépoussièrage sur mesure</small>
+                    Bienvenue chez Dynagroup Technologies.
+                    <small>Solutions de dépoussièrage sur mesure</small>
                 </h1>
             </div>
             <div class="col-md-4">
@@ -114,7 +113,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                            <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/sports" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4 portfolio-item">
@@ -124,7 +123,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                            <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/food" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4 portfolio-item">
@@ -134,7 +133,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                            <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/nature" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4 portfolio-item">
@@ -144,7 +143,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                            <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/city" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4 portfolio-item">
@@ -154,7 +153,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                            <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/cats" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4 portfolio-item">
@@ -164,7 +163,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img class="img-responsive img-hover" src="http://placehold.it/500x300" alt="">
+                            <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/transport" alt="">
                         </a>
                     </div>
                 </div>
@@ -190,21 +189,22 @@
             </div>
             <div class="col-md-6">
                 <p>Notre domaine d'expertise est large et touche à plusieurs industries, dont:</p>
-                <ul>
-                    <li><strong>Asphalte / Bitume</strong>
+                <ul class="fa-ul">
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Asphalte / Bitume
                     </li>
-                    <li>Carrière de roches</li>
-                    <li>Industrie minière et tranformation des métaux</li>
-                    <li>Industrie alimentaire</li>
-                    <li>Industrie du recyclage</li>
-                    <li>Industrie divers</li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Carrière de roches</li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Industrie minière et tranformation des métaux</li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Industrie alimentaire</li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Industrie du recyclage</li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Industrie divers</li>
                 </ul>
-                <p>Ce sont que quelque uns de nos domaines d'expertise, nous avons une experience de plusieurs années et nous
+                <p>Ce ne sont que quelque uns de nos domaines d'expertise, nous avons une expérience de plusieurs années
+                    et nous
                 employons les meilleurs ingénieurs et techniciens pour implémenter nos solutions sur mesure afin de résoudre
-                votre problème dans les meilleurs délais et de la meilleur façon.</p>
+                    votre problème dans les meilleurs délais et de la meilleure façon.</p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="http://placehold.it/700x450" alt="">
+                <img class="img-responsive" src="http://lorempixel.com/500/300/technics" alt="">
             </div>
         </div>
         <!-- /.row -->
@@ -219,7 +219,7 @@
                     résoudre votre problème dans notre domaine d'expertise.</p>
                 </div>
                 <div class="col-md-4">
-                    <a class="btn btn-lg btn-default btn-block" href="#">Contactez-nous</a>
+                    <a class="btn btn-lg btn-default btn-block" href="contact.php">Contactez-nous</a>
                 </div>
             </div>
         </div>
@@ -230,7 +230,7 @@
 
     <!-- footer-->
     <?php
-    include_once("./partials/footer.php");
+    include_once("./partials/footer.inc");
     ?>
 
     <!-- jQuery Version 1.11.0 -->

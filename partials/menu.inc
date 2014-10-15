@@ -14,7 +14,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="/index.php"><i class="glyphicon glyphicon-home"></i> Accueil</a></li>
+                <li><a href="index.php"><i class="glyphicon glyphicon-home"></i> Accueil</a></li>
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                         <i class="glyphicon glyphicon-info-sign"></i> Entreprise
@@ -23,7 +23,7 @@
                         <li><a href="#">Historique</a></li>
                         <li><a href="#">Mission</a></li>
                         <li><a href="#">Équipe</a></li>
-                        <li><a href="#">Synergie - Entreprise conjointes</a></li>
+                        <li><a href="#">Synergie - Entreprises conjointes</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
@@ -38,7 +38,7 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="contact.html"><i class="fa fa-envelope"></i> Contact</a>
+                    <a href="contact.php"><i class="fa fa-envelope"></i> Contact</a>
                 </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-list-ol"></i>

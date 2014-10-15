@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="068e9878-057d-441c-9c1b-9db39b590622" name="Default" comment="created the portfolio section in the home page and made the modals corresponding to the portfolio projects">
+    <list default="true" id="068e9878-057d-441c-9c1b-9db39b590622" name="Default" comment="- changed some colors in the home page&#10;- fixed the @media 760px hover problem">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_hr.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_titles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/dyna-style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/google_map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Dyna-modern-business\partials\modal.php" afterPath="" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\contact.html" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\css\footer.css" afterPath="$PROJECT_DIR$/sass/_footer.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\css\portfolio.css" afterPath="$PROJECT_DIR$/sass/_portfolio.scss" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\partials\carousel.html" afterPath="$PROJECT_DIR$/partials/carousel.inc" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\partials\footer.php" afterPath="$PROJECT_DIR$/partials/footer.inc" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\partials\menu.html" afterPath="$PROJECT_DIR$/partials/menu.inc" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\Dyna-modern-business\partials\socialbar.html" afterPath="$PROJECT_DIR$/partials/socialbar.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.php" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-home-1.html" afterPath="$PROJECT_DIR$/blog-home-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-home-2.html" afterPath="$PROJECT_DIR$/blog-home-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-post.html" afterPath="$PROJECT_DIR$/blog-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/contact_me.php" afterPath="$PROJECT_DIR$/bin/contact_me.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/dyna-style.css" afterPath="$PROJECT_DIR$/css/dyna-style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/footer.php" afterPath="$PROJECT_DIR$/partials/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/full-width.html" afterPath="$PROJECT_DIR$/full-width.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/menu.html" afterPath="$PROJECT_DIR$/partials/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-1-col.html" afterPath="$PROJECT_DIR$/portfolio-1-col.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-2-col.html" afterPath="$PROJECT_DIR$/portfolio-2-col.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-3-col.html" afterPath="$PROJECT_DIR$/portfolio-3-col.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-4-col.html" afterPath="$PROJECT_DIR$/portfolio-4-col.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-item.html" afterPath="$PROJECT_DIR$/portfolio-item.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/modal_projects/project1.inc" afterPath="$PROJECT_DIR$/partials/modal_projects/project1.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/modal_projects/project2.inc" afterPath="$PROJECT_DIR$/partials/modal_projects/project2.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/modal_projects/project3.inc" afterPath="$PROJECT_DIR$/partials/modal_projects/project3.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/modal_projects/project4.inc" afterPath="$PROJECT_DIR$/partials/modal_projects/project4.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/modal_projects/project5.inc" afterPath="$PROJECT_DIR$/partials/modal_projects/project5.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/modal_projects/project6.inc" afterPath="$PROJECT_DIR$/partials/modal_projects/project6.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sidebar.html" afterPath="$PROJECT_DIR$/sidebar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Dyna-modern-business.iws" />
@@ -31,11 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.62963" vertical-offset="925" max-vertical-offset="4369">
-              <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.20955315" vertical-offset="0" max-vertical-offset="4335">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#6#34#0#PHP" expanded="true" />
               </folding>
@@ -43,42 +82,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/menu.html">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.574074" vertical-offset="0" max-vertical-offset="1938">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            <state vertical-scroll-proportion="-43.73077" vertical-offset="1056" max-vertical-offset="2805">
+              <caret line="129" column="73" selection-start-line="129" selection-start-column="73" selection-end-line="129" selection-end-column="73" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/contact_me.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="544">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dyna-style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/dyna-style.css">
+      <file leaf-file-name="menu.inc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/menu.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50581396" vertical-offset="2406" max-vertical-offset="3995">
-              <caret line="162" column="16" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/footer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="1122">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              <folding />
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="782">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding>
+                <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+                <element signature="tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+                <element signature="tag#li#5;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,7 +133,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/partials/carousel.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/404.php" />
@@ -107,23 +142,49 @@
         <option value="$PROJECT_DIR$/css/footer.css" />
         <option value="$PROJECT_DIR$/partials/modal.php" />
         <option value="$PROJECT_DIR$/css/portfolio" />
-        <option value="$PROJECT_DIR$/partials/modal_projects/project2.inc" />
-        <option value="$PROJECT_DIR$/partials/modal_projects/project6.inc" />
-        <option value="$PROJECT_DIR$/partials/modal_projects/project1.inc" />
-        <option value="$PROJECT_DIR$/partials/modal_projects/project5.inc" />
-        <option value="$PROJECT_DIR$/partials/modal_projects/project4.inc" />
-        <option value="$PROJECT_DIR$/partials/modal_projects/project3.inc" />
-        <option value="$PROJECT_DIR$/partials/footer.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/partials/menu.html" />
+        <option value="$PROJECT_DIR$/partials/carousel.html" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project1.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project2.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project3.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project4.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project5.inc" />
+        <option value="$PROJECT_DIR$/partials/modal_projects/project6.inc" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/less/main.less" />
+        <option value="$PROJECT_DIR$/sass/style.scss" />
+        <option value="$PROJECT_DIR$/sass/_carousel.scss" />
         <option value="$PROJECT_DIR$/css/dyna-style.css" />
+        <option value="$PROJECT_DIR$/sass/_navbar.scss" />
+        <option value="$PROJECT_DIR$/sass/_hr.scss" />
+        <option value="$PROJECT_DIR$/sass/_titles.scss" />
+        <option value="$PROJECT_DIR$/sass/dyna-style.scss" />
+        <option value="$PROJECT_DIR$/sass/_typography.scss" />
+        <option value="$PROJECT_DIR$/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/partials/footer.php" />
+        <option value="$PROJECT_DIR$/sass/_footer.scss" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/partials/footer.inc" />
+        <option value="$PROJECT_DIR$/js/google_map.js" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/bin/contact_me.php" />
+        <option value="$PROJECT_DIR$/partials/menu.inc" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
   </component>
   <component name="PhpTemplates">
     <option name="NEW_PHP_FILE_LAST_EXTENSION" value="inc" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP55" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -156,7 +217,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,72 +235,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dyna-modern-business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dyna-modern-business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dyna-modern-business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dyna-modern-business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modal_projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dyna-modern-business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dyna-modern-business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dyna-modern-business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dyna-modern-business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dyna-laravel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dyna-cake" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
@@ -250,9 +251,26 @@
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="179" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="181" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="855" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="173" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="172" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="173" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="848" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Dyna-modern-business\sass" />
       <recent name="C:\xampp\htdocs\Dyna-modern-business\partials\modal_projects" />
       <recent name="C:\xampp\htdocs\Dyna-modern-business" />
       <recent name="C:\xampp\htdocs\Dyna-modern-business\images" />
@@ -308,7 +326,13 @@
       <option name="project" value="LOCAL" />
       <updated>1412970157583</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- changed some colors in the home page&#10;- fixed the @media 760px hover problem">
+      <created>1412975021112</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1412975021112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -335,22 +359,24 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47516778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14516129" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14516129" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25358167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22492836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19197708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47516778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -375,7 +401,8 @@
     </option>
     <MESSAGE value="Menu and footer, first second version" />
     <MESSAGE value="created the portfolio section in the home page and made the modals corresponding to the portfolio projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the portfolio section in the home page and made the modals corresponding to the portfolio projects" />
+    <MESSAGE value="- changed some colors in the home page&#10;- fixed the @media 760px hover problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="- changed some colors in the home page&#10;- fixed the @media 760px hover problem" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -384,71 +411,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="3587">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="41" />
-          <folding>
-            <element signature="e#6#34#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="2227">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/dyna-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2299" max-vertical-offset="2941">
-          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="646">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2720" max-vertical-offset="4233">
-          <caret line="160" column="25" selection-start-line="160" selection-start-column="25" selection-end-line="160" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/socialbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="323">
-          <caret line="11" column="70" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1122">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/carousel.html">
+    <entry file="file://$PROJECT_DIR$/partials/carousel.inc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -462,11 +429,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/menu.html">
+    <entry file="file://$PROJECT_DIR$/partials/menu.inc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="2227">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
+          <folding>
+            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+            <element signature="tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+            <element signature="tag#li#5;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -478,31 +449,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="646">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2720" max-vertical-offset="4233">
           <caret line="160" column="25" selection-start-line="160" selection-start-column="25" selection-end-line="160" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/socialbar.html">
+    <entry file="file://$PROJECT_DIR$/partials/socialbar.inc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="323">
           <caret line="11" column="70" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/footer.php">
+    <entry file="file://$PROJECT_DIR$/partials/footer.inc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -520,11 +481,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/menu.html">
+    <entry file="file://$PROJECT_DIR$/partials/menu.inc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+            <element signature="tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+            <element signature="tag#li#5;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -538,11 +503,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/menu.html">
+    <entry file="file://$PROJECT_DIR$/partials/menu.inc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+            <element signature="tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+            <element signature="tag#li#5;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -553,13 +522,6 @@
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="578">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -574,23 +536,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.5189004" vertical-offset="0" max-vertical-offset="2771">
           <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/socialbar.html">
+    <entry file="file://$PROJECT_DIR$/partials/socialbar.inc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27062228" vertical-offset="0" max-vertical-offset="691">
           <caret line="11" column="70" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-111.15385" vertical-offset="0" max-vertical-offset="4233">
-          <caret line="170" column="21" selection-start-line="170" selection-start-column="21" selection-end-line="170" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,15 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28526">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/modal.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47640118" vertical-offset="102" max-vertical-offset="2822">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.887522" vertical-offset="2062" max-vertical-offset="4879">
           <caret line="151" column="22" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -622,11 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.6153846" vertical-offset="875" max-vertical-offset="2193">
           <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="170" selection-end-column="18" />
-          <folding>
-            <element signature="tag#nav#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,111 +575,260 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/carousel.html">
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project1.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="765">
-          <caret line="19" column="104" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="104" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project6.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1275">
-          <caret line="29" column="100" selection-start-line="29" selection-start-column="100" selection-end-line="29" selection-end-column="106" />
+        <state vertical-scroll-proportion="0.63922155" vertical-offset="168" max-vertical-offset="1394">
+          <caret line="35" column="99" selection-start-line="35" selection-start-column="99" selection-end-line="35" selection-end-column="99" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project5.inc">
+    <entry file="file://$PROJECT_DIR$/partials/carousel.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1275">
-          <caret line="29" column="106" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project4.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1275">
-          <caret line="29" column="106" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project3.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1275">
-          <caret line="29" column="106" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="106" />
+        <state vertical-scroll-proportion="0.58176553" vertical-offset="23" max-vertical-offset="765">
+          <caret line="25" column="99" selection-start-line="25" selection-start-column="99" selection-end-line="25" selection-end-column="99" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partials/modal_projects/project2.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.653847" vertical-offset="51" max-vertical-offset="1275">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.4674385" vertical-offset="272" max-vertical-offset="1394">
+          <caret line="35" column="108" selection-start-line="35" selection-start-column="108" selection-end-line="35" selection-end-column="108" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project1.inc">
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project3.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4519941" vertical-offset="187" max-vertical-offset="1275">
-          <caret line="29" column="106" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="106" />
+        <state vertical-scroll-proportion="0.3936324" vertical-offset="323" max-vertical-offset="1377">
+          <caret line="35" column="99" selection-start-line="35" selection-start-column="99" selection-end-line="35" selection-end-column="99" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/footer.php">
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project4.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="1122">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.24602026" vertical-offset="323" max-vertical-offset="1394">
+          <caret line="29" column="101" selection-start-line="29" selection-start-column="101" selection-end-line="29" selection-end-column="101" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/portfolio.css">
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project5.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9972067" vertical-offset="0" max-vertical-offset="1088">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.4674385" vertical-offset="221" max-vertical-offset="1394">
+          <caret line="32" column="102" selection-start-line="32" selection-start-column="102" selection-end-line="32" selection-end-column="102" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/partials/modal_projects/project6.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.62963" vertical-offset="925" max-vertical-offset="4369">
-          <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
-          <folding>
-            <element signature="e#6#34#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.574074" vertical-offset="0" max-vertical-offset="1938">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.3690304" vertical-offset="374" max-vertical-offset="1394">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/footer.css">
+    <entry file="file://$PROJECT_DIR$/less/main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23709902" vertical-offset="0" max-vertical-offset="717">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_carousel.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44283646" vertical-offset="0" max-vertical-offset="691">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dyna-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50581396" vertical-offset="2406" max-vertical-offset="3995">
-          <caret line="162" column="16" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
+        <state vertical-scroll-proportion="-4.050209" vertical-offset="3108" max-vertical-offset="5661">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.2.0/scss/_list.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.2.0/scss/font-awesome.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.2.0/scss/_icons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.1259046" vertical-offset="4233" max-vertical-offset="11594">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_hr.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8277858" vertical-offset="57" max-vertical-offset="748">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_titles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="289">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.2.0/scss/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.2.0/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33238637" vertical-offset="13400" max-vertical-offset="35802">
+          <caret line="802" column="0" selection-start-line="802" selection-start-column="0" selection-end-line="802" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.2.0/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9639">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome-4.2.0/less/font-awesome.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="442">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6888567" vertical-offset="204" max-vertical-offset="2686">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3936324" vertical-offset="0" max-vertical-offset="691">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/footer.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8856729" vertical-offset="0" max-vertical-offset="986">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/google_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47419804" vertical-offset="0" max-vertical-offset="1496">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/dyna-style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1768">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="544">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-43.73077" vertical-offset="1056" max-vertical-offset="2805">
+          <caret line="129" column="73" selection-start-line="129" selection-start-column="73" selection-end-line="129" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/menu.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="782">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+            <element signature="tag#li#4;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+            <element signature="tag#li#5;tag#ul#0;tag#div#1;tag#div#0;tag#nav#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20955315" vertical-offset="0" max-vertical-offset="4335">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#34#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

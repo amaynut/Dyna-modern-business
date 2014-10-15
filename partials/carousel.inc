@@ -17,13 +17,13 @@
             </div>
         </div>
         <div class="item">
-            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Image Deux');"></div>
+            <div class="fill" style="background-image:url('http://lorempixel.com/1900/1080/technics');"></div>
             <div class="carousel-caption">
                 <h2>Mist Collector</h2>
             </div>
         </div>
         <div class="item">
-            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Image Trois');"></div>
+            <div class="fill" style="background-image:url('http://lorempixel.com/1900/1080/business');"></div>
             <div class="carousel-caption">
                 <h2>Bag House</h2>
             </div>

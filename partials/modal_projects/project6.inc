@@ -27,13 +27,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img class="img-responsive" src="http://placehold.it/750x500&text=Projet 6" alt="">
+                                <img class="img-responsive" src="http://lorempixel.com/750/500/animals" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive" src="http://placehold.it/750x500" alt="">
+                                <img class="img-responsive" src="http://lorempixel.com/750/500/fashion" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive" src="http://placehold.it/750x500" alt="">
+                                <img class="img-responsive" src="http://lorempixel.com/750/500/food" alt="">
                             </div>
                         </div>
 
