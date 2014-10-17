@@ -85,6 +85,8 @@ body {
 .panel-default > .panel-body {
   background-color: $dyna_red;
   color: white;
+  /*make them the same height*/
+  min-height: 25em;
 }
 
 /*Call to action button*/
@@ -95,3 +97,31 @@ body {
     color: white;
   }
 }
+
+/* About us page*/
+.caption h3 {
+  color: $dyna_light_blue;
+  small {
+    color: $dyna_light_red;
+  }
+
+}
+
+/**** figure ****/
+figcaption {
+  color: $dyna_red;
+}
+
+/* tab content (description des produits )*/
+.tab-content {
+  font-size: large;
+}
+
+body#dust-collectors h4 {
+  text-align: center;
+  color: $dyna_dark_red;
+  font-weight: bold;
+}
+
+
+

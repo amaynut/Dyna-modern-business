@@ -39,7 +39,7 @@
 <body>
 
 <?php
-include('/partials/menu.inc');
+include('partials/menu.inc');
 ?>
 
     <!-- Page Content -->
@@ -89,7 +89,7 @@ include('/partials/menu.inc');
                 <p><i class="fa fa-clock-o"></i>
                     <strong><abbr title="Heurs d'affaires">H</abbr></strong> : Lundi - Vendredi : 8:00 H to 17:00 H</p>
                 <?php
-                include('/partials/socialbar.inc');
+                include('partials/socialbar.inc');
                 ?>
             </div>
         </div>
@@ -140,7 +140,7 @@ include('/partials/menu.inc');
     <!-- /.container -->
 <!-- Footer -->
 <?php
-include('/partials/footer.inc');
+include('partials/footer.inc');
 ?>
 
 

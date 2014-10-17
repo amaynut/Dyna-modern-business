@@ -2,6 +2,7 @@
     <div class="container">
         <div class="row">
             <br/>
+
             <div class="col-md-4">
                    <span class="fa-stack fa-3x">
                     <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -22,10 +23,11 @@
                 </span>
                 <br>
                 <h4>Nous rendre visite</h4>
+
                 <p class="footertext"><i class="fa fa-clock-o"></i>
-                    <abbr title="Hours d'affaires">H</abbr>: Lundi - Vendredi: 8:00  à 17:00 PM</p>
+                    <abbr title="Hours d'affaires">H</abbr>: Lundi - Vendredi: 8:00 à 17:00 PM</p>
                 <address>
-                    <ul class="footertext list-unstyled" >
+                    <ul class="footertext list-unstyled">
                         <li> Dynagroup Technologies</li>
                         <li> 4070 Boulevard Poirier,</li>
                         <li> Ville St-Laurent, Québec,</li>
@@ -42,12 +44,18 @@
                 <br>
                 <h4>Retrouvez-nous sur le web</h4>
                 <?php
-                include("/partials/socialbar.inc");
+                include("partials/socialbar.inc");
                 ?>
             </div>
         </div>
-        <div class="row">
-                <p class="footertext text-center">Dynagroup Technologies Copyright &copy; 2014</p>
+        <div class="row copyright footertext">
+            <script>var today = new Date();</script>
+            <p>
+                <script>document.write(today.toLocaleDateString());</script>
+            </p>
+            <p>Dynagroup Technologies Copyright &copy; 1998-
+                <script>document.write(today.getFullYear());</script>
+            </p>
         </div>
     </div>
 </div>

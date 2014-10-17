@@ -20,9 +20,7 @@
                         <i class="glyphicon glyphicon-info-sign"></i> Entreprise
                         <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Historique</a></li>
-                        <li><a href="#">Mission</a></li>
-                        <li><a href="#">Équipe</a></li>
+                        <li><a href="a_propos.php">A propos</a></li>
                         <li><a href="#">Synergie - Entreprises conjointes</a></li>
                     </ul>
                 </li>
@@ -45,31 +43,31 @@
                         Produits <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="portfolio-1-col.html">Dépoussièreur</a>
+                            <a href="depoussiereurs.php">Dépoussièreur</a>
                         </li>
                         <li>
-                            <a href="portfolio-2-col.html">Cyclone</a>
+                            <a href="#">Cyclone</a>
                         </li>
                         <li>
-                            <a href="portfolio-3-col.html">Pré-séparateur</a>
+                            <a href="#">Pré-séparateur</a>
                         </li>
                         <li>
-                            <a href="portfolio-4-col.html">Convoiement pneumatique</a>
+                            <a href="#">Convoiement pneumatique</a>
                         </li>
                         <li>
-                            <a href="portfolio-item.html">Fluidisation</a>
+                            <a href="#">Fluidisation</a>
                         </li>
                         <li>
-                            <a href="portfolio-item.html">Canon bruimisation</a>
+                            <a href="#">Canon bruimisation</a>
                         </li>
                         <li>
-                            <a href="portfolio-item.html">Capture à la source</a>
+                            <a href="#">Capture à la source</a>
                         </li>
                         <li>
-                            <a href="portfolio-item.html">Éléments de sécurité</a>
+                            <a href="#">Éléments de sécurité</a>
                         </li>
                         <li>
-                            <a href="portfolio-item.html">Éléments filtrants</a>
+                            <a href="#">Éléments filtrants</a>
                         </li>
                         <li class="dropdown-submenu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Équipements connexes</a>
@@ -87,21 +85,22 @@
                         <i class="fa fa-magic"></i> Champs d'expertise <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="blog-home-1.html">Asphalte et bitume</a>
+                            <a href="#">Asphalte et bitume</a>
                         </li>
                         <li>
-                            <a href="blog-home-2.html">Carrières</a>
+                            <a href="#">Carrières</a>
                         </li>
                         <li>
-                            <a href="blog-post.html">Industrie alimentaire</a>
+                            <a href="#">Industrie alimentaire</a>
                         </li>
                         <li>
-                            <a href="blog-post.html">Industrie divers</a>
+                            <a href="#">Industrie divers</a>
                         </li>
                     </ul>
                 </li>
 
             </ul>
+
         </div>
         <!-- /.navbar-collapse -->
     </div>
