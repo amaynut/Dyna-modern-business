@@ -225,7 +225,7 @@ include_once("./partials/carousel.inc");
                 <li><i class="fa-li fa fa-hand-o-right"></i>Industrie du recyclage</li>
                 <li><i class="fa-li fa fa-hand-o-right"></i>Industrie divers</li>
             </ul>
-            <p>Ce ne sont que quelque uns de nos domaines d'expertise, nous avons une expérience de plusieurs années
+            <p>Ce ne sont que quelques-uns de nos domaines d'expertise, nous avons une expérience de plusieurs années
                 et nous
                 employons les meilleurs ingénieurs et techniciens pour implémenter nos solutions sur mesure afin de
                 résoudre

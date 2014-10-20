@@ -29,7 +29,7 @@
 
 </head>
 
-<body id="dust-collectors">
+<body>
 <?php
 //Navigation
 include_once("./partials/menu.inc");
@@ -79,7 +79,7 @@ include_once("./partials/menu.inc");
         <figure class="text-center">
             <img class="img-thumbnail img-responsive" style="width: 25em"
                  src="http://lorempixel.com/500/300/animals" alt=""/>
-            <figcaption>Depoussiereur à cartouche de Dynagroup</figcaption>
+            <figcaption>Dépoussiéreur à cartouche de Dynagroup</figcaption>
         </figure>
     </div>
     <div class="col-lg-12">
@@ -174,7 +174,7 @@ include_once("./partials/menu.inc");
         </ul>
 
         <div id="myTabContent" class="tab-content">
-            <div class="tab-pane fade active in" id="desc2">
+            <div class="tab-pane fade active in" id="desc2"
                 <h4>C'est quoi un Dépoussiéreur à cartouche </h4>
 
                 <p>Le type de dépoussiéreur le plus compact de Concept-air, sans compromis sur la robustesse. Conçu

@@ -21,18 +21,19 @@
                         <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="a_propos.php">A propos</a></li>
-                        <li><a href="#">Synergie - Entreprises conjointes</a></li>
+                        <li><a href="filiales.php">Synergie - Entreprises conjointes</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#"> <i class="fa fa-cogs"></i> Services
                         <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Ingénierie pour nouveaux systèmes</a></li>
-                        <li><a href="#">Études de système existants</a></li>
-                        <li><a href="#">Élaboration de devis</a></li>
-                        <li><a href="#">Relevés de terrain</a></li>
-                        <li><a href="#">Installation et modification d'un système</a></li>
+                        <li><a href="ingenierie-nouveaux-systemes.php">Ingénierie pour nouveaux systèmes</a></li>
+                        <li><a href="etudes-de-systeme-existants">Études de système existants</a></li>
+                        <li><a href="elaboration-de-devis.php">Élaboration de devis</a></li>
+                        <li><a href="releves-de-terrain.php">Relevés de terrain</a></li>
+                        <li><a href="installation-et-modification-d-un-systeme.php">Installation et modification d'un
+                                système</a></li>
                     </ul>
                 </li>
                 <li>
@@ -46,35 +47,35 @@
                             <a href="depoussiereurs.php">Dépoussièreur</a>
                         </li>
                         <li>
-                            <a href="#">Cyclone</a>
+                            <a href="cyclone.php">Cyclone</a>
                         </li>
                         <li>
-                            <a href="#">Pré-séparateur</a>
+                            <a href="preparateur.php">Pré-séparateur</a>
                         </li>
                         <li>
-                            <a href="#">Convoiement pneumatique</a>
+                            <a href=convoiement-pneumatique.php">Convoiement pneumatique</a>
                         </li>
                         <li>
-                            <a href="#">Fluidisation</a>
+                            <a href="fluidisation.php">Fluidisation</a>
                         </li>
                         <li>
-                            <a href="#">Canon bruimisation</a>
+                            <a href="canon-bruimisation.php">Canon bruimisation</a>
                         </li>
                         <li>
-                            <a href="#">Capture à la source</a>
+                            <a href="capture-a-la-source.php">Capture à la source</a>
                         </li>
                         <li>
-                            <a href="#">Éléments de sécurité</a>
+                            <a href="elements-de-securite.php">Éléments de sécurité</a>
                         </li>
                         <li>
-                            <a href="#">Éléments filtrants</a>
+                            <a href="elements-filtrants.php">Éléments filtrants</a>
                         </li>
                         <li class="dropdown-submenu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Équipements connexes</a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Évacuation d'air</a></li>
-                                <li><a href="#">Décharge de produits</a></li>
-                                <li><a href="#">Pièces de rechange</a></li>
+                                <li><a href="evacuation-d-air.php">Évacuation d'air</a></li>
+                                <li><a href=">Decharge-de-produits.php">Décharge de produits</a></li>
+                                <li><a href="pieces-de-rechange.php">Pièces de rechange</a></li>
                             </ul>
                         </li>
 
@@ -85,16 +86,16 @@
                         <i class="fa fa-magic"></i> Champs d'expertise <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="#">Asphalte et bitume</a>
+                            <a href="asphalte-et-bitume.php">Asphalte et bitume</a>
                         </li>
                         <li>
-                            <a href="#">Carrières</a>
+                            <a href="carrieres.php">Carrières</a>
                         </li>
                         <li>
-                            <a href="#">Industrie alimentaire</a>
+                            <a href="industrie-alimentaire.php">Industrie alimentaire</a>
                         </li>
                         <li>
-                            <a href="#">Industrie divers</a>
+                            <a href="industrie-divers.php">Industrie divers</a>
                         </li>
                     </ul>
                 </li>

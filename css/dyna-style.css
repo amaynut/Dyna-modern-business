@@ -407,7 +407,7 @@ figcaption {
   font-size: large;
 }
 
-body#dust-collectors h4 {
+.tab-content h4 {
   text-align: center;
   color: #31080a;
   font-weight: bold;

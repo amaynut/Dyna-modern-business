@@ -115,13 +115,13 @@ figcaption {
 /* tab content (description des produits )*/
 .tab-content {
   font-size: large;
+  h4 {
+    text-align: center;
+    color: $dyna_dark_red;
+    font-weight: bold;
+  }
 }
 
-body#dust-collectors h4 {
-  text-align: center;
-  color: $dyna_dark_red;
-  font-weight: bold;
-}
 
 
 
