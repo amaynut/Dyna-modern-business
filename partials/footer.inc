@@ -25,7 +25,7 @@
                 <h4>Nous rendre visite</h4>
 
                 <p class="footertext"><i class="fa fa-clock-o"></i>
-                    <abbr title="Hours d'affaires">H</abbr>: Lundi - Vendredi: 8:00 à 17:00 PM</p>
+                    <abbr title="Hours d'affaires">H</abbr>: Lundi - Vendredi: 8:00 H à 17:00 H</p>
                 <address>
                     <ul class="footertext list-unstyled">
                         <li> Dynagroup Technologies</li>

@@ -51,208 +51,233 @@ include_once("./partials/carousel.inc");
 <!-- Page Content -->
 <div class="container">
 
-    <!-- Marketing Icons Section -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">
-                Bienvenue chez Dynagroup Technologies.
-                <small>Solutions de dépoussièrage sur mesure</small>
-            </h1>
-        </div>
+<!-- Marketing Icons Section -->
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">
+            Bienvenue chez Dynagroup Technologies.
+            <small>Solutions de dépoussièrage sur mesure</small>
+        </h1>
     </div>
-    <div class="row equal" id="marketing-icons">
-        <div class="col-md-4">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4><i class="fa fa-fw fa-life-ring"></i> Ingénierie et fourniture</h4>
-                </div>
-                <div class="panel-body">
-                    <p>L'un de nos principaux service est l'ingénierie et la fourniture de nouveaux systèmes de
-                        traitement des poussières.
-                        Ce service comprend, entre autre: </p>
-                    <ul class="fa-ul">
-                        <li><i class="fa-li fa fa-hand-o-right"></i>Visite et relevés pour bien comprendre les systèmes
-                            en place et problématiques encourues.
-                        </li>
-                        <li><i class="fa-li fa fa-hand-o-right"></i>Design et élaboration de solutions de traitement des
-                            poussières en collaboration avec nos
-                            clients.
-                        </li>
-                        <li><i class="fa-li fa fa-hand-o-right"></i>Fabrication d'unité de dépoussiérage, convoiement
-                            pneumatique, etc.
-                        </li>
-                    </ul>
-                </div>
+</div>
+<div class="row equal" id="marketing-icons">
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4><i class="fa fa-fw fa-life-ring"></i> Ingénierie et fourniture</h4>
             </div>
-        </div>
-        <div class="col-md-4">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4><i class="glyphicon glyphicon-wrench"></i> Maintenance</h4>
-                </div>
-                <div class="panel-body">
-                    <p>La maintenance des systèmes de dépoussiérage existants est aussi au cœur de notre métier. Elle
-                        comprend notamment: </p>
-                    <ul class="fa-ul">
-                        <li><i class="fa-li fa fa-hand-o-right"></i>Visite pour inspection complète d'unités de
-                            dépoussiérage existantes afin de les rendre
-                            optimales et efficaces selon la réalité de nos clients.
-                        </li>
-                        <li><i class="fa-li fa fa-hand-o-right"></i>Formation de votre personnel afin que ceux-ci puisse
-                            effectuer des inspections de
-                            maintenance adéquates et garde vos équipements en bon ordre.
-                        </li>
-                        <li><i class="fa-li fa fa-hand-o-right"></i> Fourniture et installation de pièces de rechange
-                            pour unité de traitement des poussières.
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4><i class="fa fa-fw fa-cog"></i>Installation</h4>
-                </div>
-                <div class="panel-body">
-                    <p>Nous faisons aussi l'installation mécanique complète des systèmes de traitement des
-                        poussières.</p>
-                </div>
+            <div class="panel-body">
+                <p>L'un de nos principaux service est l'ingénierie et la fourniture de nouveaux systèmes de
+                    traitement des poussières.
+                    Ce service comprend, entre autre: </p>
+                <ul class="fa-ul">
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Visite et relevés pour bien comprendre les systèmes
+                        en place et problématiques encourues.
+                    </li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Design et élaboration de solutions de traitement des
+                        poussières en collaboration avec nos
+                        clients.
+                    </li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Fabrication d'unité de dépoussiérage, convoiement
+                        pneumatique, etc.
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
-    <!-- /.row -->
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4><i class="glyphicon glyphicon-wrench"></i> Maintenance</h4>
+            </div>
+            <div class="panel-body">
+                <p>La maintenance des systèmes de dépoussiérage existants est aussi au cœur de notre métier. Elle
+                    comprend notamment: </p>
+                <ul class="fa-ul">
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Visite pour inspection complète d'unités de
+                        dépoussiérage existantes afin de les rendre
+                        optimales et efficaces selon la réalité de nos clients.
+                    </li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i>Formation de votre personnel afin que ceux-ci puisse
+                        effectuer des inspections de
+                        maintenance adéquates et garde vos équipements en bon ordre.
+                    </li>
+                    <li><i class="fa-li fa fa-hand-o-right"></i> Fourniture et installation de pièces de rechange
+                        pour unité de traitement des poussières.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4><i class="fa fa-fw fa-cog"></i>Installation</h4>
+            </div>
+            <div class="panel-body">
+                <p>Nous faisons aussi l'installation mécanique complète des systèmes de traitement des
+                    poussières.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.row -->
 
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Nos Réalisations</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-6 col-md-4 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/sports" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/food" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/nature" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/city" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/cats" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-6 col-md-4 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/transport" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- /.row -->
-    <!-- Portfolio Modals -->
-    <?php
-    include_once("partials/modal_projects/project1.inc");
-    include_once("partials/modal_projects/project2.inc");
-    include_once("partials/modal_projects/project3.inc");
-    include_once("partials/modal_projects/project4.inc");
-    include_once("partials/modal_projects/project5.inc");
-    include_once("partials/modal_projects/project6.inc");
-    ?>
-    <!-- Features Section -->
-    <div class="row" id="Features">
+<!-- Portfolio Grid Section -->
+<section id="portfolio">
+    <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2>Champs d'expertise</h2>
+                <h2>Nos Réalisations</h2>
                 <hr class="star-primary">
             </div>
         </div>
-        <div class="col-md-6">
-            <p>Notre domaine d'expertise est large et touche à plusieurs industries, dont:</p>
-            <ul class="fa-ul">
-                <li><i class="fa-li fa fa-hand-o-right"></i>Asphalte / Bitume
-                </li>
-                <li><i class="fa-li fa fa-hand-o-right"></i>Carrière de roches</li>
-                <li><i class="fa-li fa fa-hand-o-right"></i>Industrie minière et tranformation des métaux</li>
-                <li><i class="fa-li fa fa-hand-o-right"></i>Industrie alimentaire</li>
-                <li><i class="fa-li fa fa-hand-o-right"></i>Industrie du recyclage</li>
-                <li><i class="fa-li fa fa-hand-o-right"></i>Industrie divers</li>
-            </ul>
-            <p>Ce ne sont que quelques-uns de nos domaines d'expertise, nous avons une expérience de plusieurs années
-                et nous
-                employons les meilleurs ingénieurs et techniciens pour implémenter nos solutions sur mesure afin de
-                résoudre
-                votre problème dans les meilleurs délais et de la meilleure façon.</p>
-        </div>
-        <div class="col-md-6">
-            <img class="img-responsive" src="http://lorempixel.com/500/300/technics" alt="">
-        </div>
-    </div>
-    <!-- /.row -->
-
-    <hr>
-
-    <!-- Call to Action Section -->
-    <div class="well" id="call-to-action">
         <div class="row">
-            <div class="col-md-8">
-                <p>Nous sommes à votre écoute, envoyez-nous un message ou appellez-nous pour vous aider à
-                    résoudre votre problème dans notre domaine d'expertise.</p>
+            <div class="col-sm-6 col-md-4 portfolio-item">
+                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/sports" alt="">
+                </a>
             </div>
-            <div class="col-md-4">
-                <a class="btn btn-lg btn-default btn-block" href="contact.php">Contactez-nous</a>
+            <div class="col-sm-6 col-md-4 portfolio-item">
+                <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/food" alt="">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4 portfolio-item">
+                <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/nature" alt="">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4 portfolio-item">
+                <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/city" alt="">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4 portfolio-item">
+                <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/cats" alt="">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4 portfolio-item">
+                <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-responsive img-hover" src="http://lorempixel.com/500/300/transport" alt="">
+                </a>
             </div>
         </div>
     </div>
+</section>
+<!-- /.row -->
+<!-- Portfolio Modals -->
+<?php
+include_once("partials/modal_projects/project1.inc");
+include_once("partials/modal_projects/project2.inc");
+include_once("partials/modal_projects/project3.inc");
+include_once("partials/modal_projects/project4.inc");
+include_once("partials/modal_projects/project5.inc");
+include_once("partials/modal_projects/project6.inc");
+?>
+<!-- Features Section -->
+<div class="row" id="Features">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2>Champs d'expertise</h2>
+            <hr class="star-primary">
+        </div>
+    </div>
+    <div class="col-md-6 jumbotron">
+        <p>Notre domaine d'expertise est large et touche à plusieurs industries, dont:</p>
+        <ul class="fa-ul">
+            <li>
+                <span class=" fa-li fa-stack">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-star fa-stack-1x"></i>
+                </span>
+                Asphalte / Bitume
+            </li>
+            <li>  <span class=" fa-li fa-stack">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-star fa-stack-1x"></i>
+                </span>Carrière de roches
+            </li>
+            <li>  <span class=" fa-li fa-stack">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-star fa-stack-1x"></i>
+                </span>Industrie minière et tranformation des métaux
+            </li>
+            <li>  <span class=" fa-li fa-stack">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-star fa-stack-1x"></i>
+                </span>Industrie alimentaire
+            </li>
+            <li>  <span class=" fa-li fa-stack">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-star fa-stack-1x"></i>
+                </span>Industrie du recyclage
+            </li>
+            <li>  <span class=" fa-li fa-stack">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-star fa-stack-1x"></i>
+                </span>Industrie divers
+            </li>
+        </ul>
+        <p>Ce ne sont que quelques-uns de nos domaines d'expertise, nous avons une expérience de plusieurs années
+            et nous
+            employons les meilleurs ingénieurs et techniciens pour implémenter nos solutions sur mesure afin de
+            résoudre
+            votre problème dans les meilleurs délais et de la meilleure façon.</p>
+    </div>
+    <div class="col-md-6">
+        <img class="img-responsive" src="http://www.solutionsforce.com/images/cmg/OurExpertise.jpg" alt="">
+    </div>
+</div>
+<!-- /.row -->
 
-    <hr>
+<hr>
+
+<!-- Call to Action Section -->
+<div class="well" id="call-to-action">
+    <div class="row">
+        <div class="col-md-8">
+            <p>Nous sommes à votre écoute, envoyez-nous un message ou appellez-nous pour vous aider à
+                résoudre votre problème dans notre domaine d'expertise.</p>
+        </div>
+        <div class="col-md-4">
+            <a class="btn btn-lg btn-default btn-block" href="contact.php">Contactez-nous</a>
+        </div>
+    </div>
+</div>
+
+<hr>
 </div>
 <!-- /.container -->
 

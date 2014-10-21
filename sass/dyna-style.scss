@@ -87,6 +87,11 @@ body {
   color: white;
   /*make them the same height*/
   min-height: 25em;
+  /*color of font awesome list icons*/
+
+  .fa-li {
+    color: $dyna_light_blue;
+  }
 }
 
 /*Call to action button*/
@@ -109,7 +114,10 @@ body {
 
 /**** figure ****/
 figcaption {
-  color: $dyna_red;
+  color: $dyna_red + $dyna_blue;
+  font-style: italic;
+  text-align: center;
+  // background-color:$dyna_light_red;
 }
 
 /* tab content (description des produits )*/
@@ -118,8 +126,18 @@ figcaption {
   h4 {
     text-align: center;
     color: $dyna_dark_red;
-    font-weight: bold;
+    font-weight: 400;
   }
+}
+
+/* Page fluidisation*/
+#airsweep_advantages li {
+  font-size: 150%;
+}
+
+/*Style font awesome list icons*/
+.fa-li {
+  color: $dyna_blue + $dyna_red;
 }
 
 

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!-- @TODO see "Lettre de présentation" for the text about "modification de système existants" -->
 <head>
 
     <meta charset="utf-8">

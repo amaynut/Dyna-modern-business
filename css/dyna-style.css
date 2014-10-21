@@ -378,6 +378,10 @@ body {
   color: white;
   /*make them the same height*/
   min-height: 25em;
+  /*color of font awesome list icons*/
+}
+.panel-default > .panel-body .fa-li {
+  color: #5956c6;
 }
 
 /*Call to action button*/
@@ -399,16 +403,27 @@ body {
 
 /**** figure ****/
 figcaption {
-  color: #b31f24;
+  color: #d64086;
+  font-style: italic;
+  text-align: center;
 }
 
 /* tab content (description des produits )*/
 .tab-content {
   font-size: large;
 }
-
 .tab-content h4 {
   text-align: center;
   color: #31080a;
-  font-weight: bold;
+  font-weight: 400;
+}
+
+/* Page fluidisation*/
+#airsweep_advantages li {
+  font-size: 150%;
+}
+
+/*Style font awesome list icons*/
+.fa-li {
+  color: #d64086;
 }

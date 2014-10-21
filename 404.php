@@ -70,7 +70,7 @@
                             <a href="about.html">About</a>
                         </li>
                         <li>
-                            <a href="services.html">Services</a>
+                            <a href="tpl/services.html">Services</a>
                         </li>
                         <li>
                             <a href="contact.php">Contact</a>
@@ -79,16 +79,16 @@
                             Portfolio
                             <ul>
                                 <li>
-                                    <a href="portfolio-1-col.html">1 Column Portfolio</a>
+                                    <a href="tpl/portfolio-1-col.html">1 Column Portfolio</a>
                                 </li>
                                 <li>
-                                    <a href="portfolio-2-col.html">2 Column Portfolio</a>
+                                    <a href="tpl/portfolio-2-col.html">2 Column Portfolio</a>
                                 </li>
                                 <li>
-                                    <a href="portfolio-3-col.html">3 Column Portfolio</a>
+                                    <a href="tpl/portfolio-3-col.html">3 Column Portfolio</a>
                                 </li>
                                 <li>
-                                    <a href="portfolio-4-col.html">4 Column Portfolio</a>
+                                    <a href="tpl/portfolio-4-col.html">4 Column Portfolio</a>
                                 </li>
                             </ul>
                         </li>
@@ -113,7 +113,7 @@
                                     <a href="full-width-page.html">Full Width Page</a>
                                 </li>
                                 <li>
-                                    <a href="sidebar.html">Sidebar Page</a>
+                                    <a href="tpl/sidebar.html">Sidebar Page</a>
                                 </li>
                                 <li>
                                     <a href="faq.html">FAQ</a>
