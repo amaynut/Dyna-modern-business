@@ -60,7 +60,7 @@ include_once("./partials/menu.inc");
     <div class="row">
         <div class="col-md-6">
             <figure>
-                <img class="img-responsive" src="images/products/systeme_fluidisation.jpg" alt="">
+                <img width="100%" class="img-responsive" src="images/products/systeme_fluidisation.png" alt="">
             </figure>
         </div>
         <div class="col-md-6 jumbotron">

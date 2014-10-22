@@ -59,7 +59,7 @@
                             <a href="fluidisation.php">Fluidisation</a>
                         </li>
                         <li>
-                            <a href="canon-bruimisation.php">Canon bruimisation</a>
+                            <a href="canon-brumisation.php">Canon brumisation</a>
                         </li>
                         <li>
                             <a href="capture-a-la-source.php">Capture à la source</a>

@@ -16,6 +16,17 @@
 }
 .container h1 {
   font-family: 'Anton', sans-serif;
+    color: #15143c;
+}
+
+.container h2 {
+    font-family: 'Anton', sans-serif;
+    color: #232162;
+}
+
+.container h3 {
+    font-family: 'Anton', sans-serif;
+    color: #5956c6;
 }
 .container p.text-big {
   font-size: 150%;
@@ -426,4 +437,17 @@ figcaption {
 /*Style font awesome list icons*/
 .fa-li {
   color: #d64086;
+}
+
+/*Page canon brumiseurs*/
+div#type-brimuseurs p {
+    font-size: 120%;
+}
+
+div#type-brimuseurs img {
+    width: 100%;
+}
+
+body#page-brumisation ol {
+    list-style: upper-latin;
 }

@@ -172,7 +172,6 @@ include_once("./partials/menu.inc");
 
         </div>
     </div>
-
     <!-- /.row -->
     <!-- Call to Action Section -->
     <div class="well" id="call-to-action">

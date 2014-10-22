@@ -57,7 +57,7 @@ include_once("./partials/menu.inc");
 <!-- Intro Content -->
 <div class="row">
     <div class="col-md-6">
-        <img class="img-responsive" src="http://lorempixel.com/750/450/business" alt="">
+        <img class="img-responsive" src="images/Dyna_GoogleStreetView.png" alt="">
     </div>
     <div class="col-md-6">
         <h2>A propos de Dynagroup Technologies</h2>

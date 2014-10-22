@@ -140,6 +140,22 @@ figcaption {
   color: $dyna_blue + $dyna_red;
 }
 
+/*Page canon brumiseurs*/
+div#type-brimuseurs {
+  p {
+    font-size: 120%;
+  }
+  img {
+    width: 100%;
+  }
+}
+
+body#page-brumisation {
+  ol {
+    list-style: upper-latin;
+  }
+}
+
 
 
 
