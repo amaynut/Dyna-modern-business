@@ -57,7 +57,11 @@ include_once("./partials/menu.inc");
 <!-- Intro Content -->
 <div class="row">
     <div class="col-md-6">
-        <img class="img-responsive" src="images/products/depoussieur.JPG" alt="">
+        <figure>
+            <img class="img-responsive" src="images/products/depoussieur.JPG" alt="">
+            <figcaption>Dépoussiéreur de dynagroup installé chez l'un de nos clients</figcaption>
+        </figure>
+
     </div>
     <div class="col-md-6">
         <h2>C'est quoi un dépoussiéreur ?</h2>

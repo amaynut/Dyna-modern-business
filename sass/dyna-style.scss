@@ -14,6 +14,8 @@
 @import 'footer';
 @import 'hr';
 @import 'titles';
+@import "compass/css3";
+@import "mixin";
 
 html,
 body {
@@ -148,14 +150,53 @@ div#type-brimuseurs {
   img {
     width: 100%;
   }
+  ul {
+    list-style: none;
+    li:before {
+      @include fa-list-style();
+    }
+    ul {
+      li:before {
+        @include fa-list-style();
+      }
+    }
+  }
 }
 
+//\f0da
 body#page-brumisation {
   ol {
     list-style: upper-latin;
   }
 }
 
+/************page element filtrants  **********************/
+#elements-filtrants {
+  img {
+    width: 100%;
+    @include border-radius(2ex);
+    border: $dyna_light_red inset 1ex;
+  }
+  p {
+    font-size: large;
+  }
+  ul {
+    list-style: none;
+    li:before {
+      @include fa-list-style();
+      font-size: 120%;
+    }
+    ul {
+      li:before {
+        @include fa-list-style($content: '\f0da', $color: $dyna_light_blue);
+        font-size: 120%;
+      }
+    }
+  }
+  #call-to-action p {
+    font-size: 100%;
+  }
+}
 
 
 

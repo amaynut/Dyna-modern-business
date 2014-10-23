@@ -1,0 +1,6 @@
+@mixin fa-list-style($color: $dyna_light_red, $content: '\f067') {
+  font-family: 'FontAwesome';
+  content: $content;
+  margin: 0 5px 0 -15px;
+  color: $color;
+}

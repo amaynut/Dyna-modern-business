@@ -99,6 +99,21 @@ include_once("./partials/menu.inc");
                     poussière ou de
                     gestion l’odeur</strong> grâce à un additif dans l’eau.
             </p>
+            <h4>Charactéristiques</h4>
+
+            <p>Disponible en version murale, sur pôle ou autonome</p>
+            <ul>
+                <li> Projection jusqu’à 30 mètres (100 pieds)</li>
+                <li> Consomation d’eau ajustable entre 15 et 50 gallon / minute</li>
+                <li> Gouttelettes de 500 microns</li>
+                <li> Roue d’éjection ajustable entre 2000 et 11000 RPM</li>
+                <li> Ventilateur alimenté par 110v ou 220v</li>
+                <li> Fabrication en acier</li>
+                <li> Option possible d’un moteur d’oscillation 120°</li>
+                <li> Coût
+                    <mark>±14,000 $CAD</mark>
+                </li>
+            </ul>
             <figure>
                 <img class="img-responsive img-thumbnail" src="images/products/canon-a-roue-d-ejection.png"
                      alt=""/>
@@ -117,6 +132,26 @@ include_once("./partials/menu.inc");
                     sol</strong> ou sur les
                 équipements.
             </p>
+            <h4>Charactéristiques</h4>
+
+            <p>Disponible en version murale, sur pôle ou autonome</p>
+            <ul>
+                <li> Projection entre 25 et 100 mètres (80 et 330 pieds)</li>
+                <li> Consommation d’eau
+                    <ul>
+                        <li><strong>Génération 2A :</strong> 30 @ 50 gallons / minute</li>
+                        <li><strong>Génération 2B :</strong> 5 @ 20 gallons / minute</li>
+                    </ul>
+                </li>
+                <li> Gouttelettes de 150 @ 400 microns</li>
+                <li> Pression d’eau entre 40 et 200 psig</li>
+                <li> Ventilateur variant de 7.5 @ 60 HP</li>
+                <li> Fabrication en acier</li>
+                <li> Option possible d’un moteur d’oscillation 359°</li>
+                <li> Coût
+                    <mark>±20,000 $CAD</mark>
+                </li>
+            </ul>
             <figure>
                 <img class="img-responsive img-thumbnail" src="images/products/canon-a-atomisation.png"
                      alt=""/>
@@ -134,6 +169,21 @@ include_once("./partials/menu.inc");
                     émissions de
                     très fines poussières</strong>.
             </p>
+            <h4>Charactéristiques</h4>
+
+            <p>Disponible en version murale, sur pôle ou autonome</p>
+            <ul>
+                <li> Projection entre 15 et 50 mètres (50 et 165 pieds)</li>
+                <li> Consommation d’eau 1.2 @ 5 gallons / minute</li>
+                <li> Enveloppe d’eau de 5 @ 10 µm</li>
+                <li> Pression d’eau entre 250 et 1700 psig</li>
+                <li> Ventilateur variant de 3 @ 20 HP</li>
+                <li> Fabrication en fibre de verre / acier inoxydable</li>
+                <li> Option possible d’un moteur d’oscillation 359°</li>
+                <li> Coût
+                    <mark>±24,000$CAD</mark>
+                </li>
+            </ul>
             <figure>
                 <img class="img-responsive img-thumbnail"
                      src="images/products/canon-a-brumiseur-haute-pression.jpg" alt=""/>

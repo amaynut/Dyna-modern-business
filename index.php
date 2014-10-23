@@ -36,10 +36,7 @@
     <![endif]-->
 
 </head>
-
 <body>
-
-
 <?php
 //Navigation
 include_once("./partials/menu.inc");

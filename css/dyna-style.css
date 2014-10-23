@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*!
 /*!
  * Start Bootstrap - Modern Business HTML Template (http://startbootstrap.com)
@@ -7,83 +8,124 @@
 /* Global Styles */
 /*Import the partials*/
 @import url(http://fonts.googleapis.com/css?family=Nunito|Arvo|Anton);
+
+/* line 4, ../sass/_typography.scss */
 .container li {
   font-family: 'Arvo', serif;
 }
+
+/* line 7, ../sass/_typography.scss */
 .container p {
   font-family: 'Nunito', sans-serif;
   text-align: justify;
 }
+
+/* line 11, ../sass/_typography.scss */
 .container h1 {
   font-family: 'Anton', sans-serif;
     color: #15143c;
 }
 
+/* line 15, ../sass/_typography.scss */
 .container h2 {
     font-family: 'Anton', sans-serif;
     color: #232162;
 }
 
+/* line 19, ../sass/_typography.scss */
 .container h3 {
     font-family: 'Anton', sans-serif;
     color: #5956c6;
 }
+
+/* line 23, ../sass/_typography.scss */
+.container h4 {
+    font-family: 'Anton', sans-serif;
+    color: #e98285;
+}
+
+/* line 28, ../sass/_typography.scss */
 .container p.text-big {
   font-size: 150%;
 }
 
+/* line 33, ../sass/_typography.scss */
 .navbar-brand {
   font-family: 'Anton', sans-serif;
 }
 
 /**           Navigation bar          */
+/* line 2, ../sass/_navbar.scss */
 .navbar {
-  background-color: #b31f24;
+    background-color: #B31F24;
 }
 
+/* line 6, ../sass/_navbar.scss */
 .navbar-toggle {
   background-color: #232162;
 }
 
+/* line 10, ../sass/_navbar.scss */
 .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
   color: #232162;
   background-color: transparent;
 }
 
+/* line 15, ../sass/_navbar.scss */
 .navbar-inverse {
   /*navigation menu*******************************/
   /*Brand section***************************************/
   /* sub menu */
 }
+
+/* line 19, ../sass/_navbar.scss */
 .navbar-inverse .navbar-nav {
   background-color: #232162;
 }
+
+/* line 22, ../sass/_navbar.scss */
 .navbar-inverse .navbar-nav i {
   color: #e98285;
 }
+
+/* line 26, ../sass/_navbar.scss */
 .navbar-inverse .navbar-nav li a {
   color: #FFF;
 }
+
+/* line 28, ../sass/_navbar.scss */
 .navbar-inverse .navbar-nav li a:hover {
   color: #e98285;
 }
+
+/* line 32, ../sass/_navbar.scss */
 .navbar-inverse .navbar-nav li:hover {
   background-color: #fff;
 }
+
+/* line 38, ../sass/_navbar.scss */
 .navbar-inverse .navbar-brand {
   color: #232162;
 }
+
+/* line 40, ../sass/_navbar.scss */
 .navbar-inverse .navbar-brand img {
   height: 100%;
   margin-top: -3px;
   margin-right: 5px;
 }
+
+/* line 46, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-menu {
   background-color: #5956c6;
 }
+
+/* line 50, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu {
   position: relative;
 }
+
+/* line 53, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu .dropdown-submenu > .dropdown-menu {
   top: 0;
   left: 100%;
@@ -93,9 +135,13 @@
   -moz-border-radius: 0 6px 6px;
   border-radius: 0 6px 6px 6px;
 }
+
+/* line 63, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu .dropdown-submenu:hover > .dropdown-menu {
   display: block;
 }
+
+/* line 67, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu .dropdown-submenu > a:after {
   display: block;
   content: " ";
@@ -109,12 +155,18 @@
   margin-top: 5px;
   margin-right: -10px;
 }
+
+/* line 81, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu .dropdown-submenu:hover > a:after {
   border-left-color: #fff;
 }
+
+/* line 85, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu .dropdown-submenu.pull-left {
   float: none;
 }
+
+/* line 89, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu .dropdown-submenu.pull-left > .dropdown-menu {
   left: -100%;
   margin-left: 10px;
@@ -122,6 +174,8 @@
   -moz-border-radius: 6px 0 6px 6px;
   border-radius: 6px 0 6px 6px;
 }
+
+/* line 98, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu > .dropdown-menu {
   top: 0;
   left: 100%;
@@ -131,9 +185,13 @@
   -moz-border-radius: 0 6px 6px;
   border-radius: 0 6px 6px 6px;
 }
+
+/* line 108, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu:hover > .dropdown-menu {
   display: block;
 }
+
+/* line 112, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu > a:after {
   display: block;
   content: " ";
@@ -147,12 +205,18 @@
   margin-top: 5px;
   margin-right: -10px;
 }
+
+/* line 126, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu:hover > a:after {
   border-left-color: #fff;
 }
+
+/* line 130, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu.pull-left {
   float: none;
 }
+
+/* line 134, ../sass/_navbar.scss */
 .navbar-inverse .dropdown-submenu.pull-left > .dropdown-menu {
   left: -100%;
   margin-left: 10px;
@@ -163,11 +227,14 @@
 
 /* fix the hover color problem for mobile*/
 @media (max-width: 760px) {
+    /* line 146, ../sass/_navbar.scss */
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #333;
     background-color: transparent;
   }
 }
+
+/* line 2, ../sass/_portfolio.scss */
 .portfolio-modal .modal-content {
   padding: 100px 0;
   min-height: 100%;
@@ -179,19 +246,23 @@
   box-shadow: none;
 }
 
+/* line 13, ../sass/_portfolio.scss */
 .portfolio-modal .modal-content h2 {
   margin: 0;
   font-size: 3em;
 }
 
+/* line 18, ../sass/_portfolio.scss */
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
 }
 
+/* line 22, ../sass/_portfolio.scss */
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
 }
 
+/* line 26, ../sass/_portfolio.scss */
 .portfolio-modal .close-modal {
   position: absolute;
   top: 25px;
@@ -202,10 +273,12 @@
   cursor: pointer;
 }
 
+/* line 36, ../sass/_portfolio.scss */
 .portfolio-modal .close-modal:hover {
   opacity: .3;
 }
 
+/* line 40, ../sass/_portfolio.scss */
 .portfolio-modal .close-modal .lr {
   z-index: 1051;
   width: 1px;
@@ -217,6 +290,7 @@
   transform: rotate(45deg);
 }
 
+/* line 51, ../sass/_portfolio.scss */
 .portfolio-modal .close-modal .lr .rl {
   z-index: 1052;
   width: 1px;
@@ -228,16 +302,19 @@
 }
 
 /* Home Page Carousel */
+/* line 3, ../sass/_carousel.scss */
 header.carousel {
   height: 50%;
 }
 
+/* line 7, ../sass/_carousel.scss */
 header.carousel .item,
 header.carousel .item.active,
 header.carousel .carousel-inner {
   height: 100%;
 }
 
+/* line 13, ../sass/_carousel.scss */
 header.carousel .fill {
   width: 100%;
   height: 100%;
@@ -247,28 +324,40 @@ header.carousel .fill {
 
 /* Footer styles
 -------------------------------------------------- */
+/* line 4, ../sass/_footer.scss */
 #footer {
   /* Set the fixed height of the footer here */
   height: auto;
-  background-color: #b31f24;
+    background-color: #B31F24;
 }
+
+/* line 8, ../sass/_footer.scss */
 #footer .footertext {
   color: #FFF;
 }
+
+/* line 11, ../sass/_footer.scss */
 #footer a {
   color: #15143c;
 }
+
+/* line 14, ../sass/_footer.scss */
 #footer .fa-stack-2x {
   color: #15143c;
 }
+
+/* line 17, ../sass/_footer.scss */
 #footer h4 {
   color: #15143c;
 }
+
+/* line 20, ../sass/_footer.scss */
 #footer .copyright p {
   text-align: center;
 }
 
 /* hr element**/
+/* line 2, ../sass/_hr.scss */
 hr.star-light,
 hr.star-primary {
   margin: 25px auto 30px;
@@ -279,6 +368,7 @@ hr.star-primary {
   text-align: center;
 }
 
+/* line 12, ../sass/_hr.scss */
 hr.star-light:after,
 hr.star-primary:after {
   content: "\f005";
@@ -290,72 +380,88 @@ hr.star-primary:after {
   font-size: 2em;
 }
 
+/* line 23, ../sass/_hr.scss */
 hr.star-light {
   border-color: #fff;
 }
 
+/* line 27, ../sass/_hr.scss */
 hr.star-light:after {
   color: #fff;
   background-color: #18bc9c;
 }
 
+/* line 32, ../sass/_hr.scss */
 hr.star-primary {
-  border-color: #b31f24;
+    border-color: #B31F24;
 }
 
+/* line 36, ../sass/_hr.scss */
 hr.star-primary:after {
   color: #232162;
   background-color: #fff;
 }
 
 /* headers h1, h2, ....*/
+/* line 2, ../sass/_titles.scss */
 h1 {
   color: #232162;
 }
+
+/* line 4, ../sass/_titles.scss */
 h1 small {
-  color: #b31f24;
+    color: #B31F24;
 }
 
+/* line 9, ../sass/_titles.scss */
 h2 {
   color: #232162;
 }
 
+/* line 20, ../sass/dyna-style.scss */
 html,
 body {
   height: 100%;
 }
 
+/* line 25, ../sass/dyna-style.scss */
 body {
   padding-top: 50px;
   /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
+/* line 30, ../sass/dyna-style.scss */
 .img-portfolio {
   margin-bottom: 30px;
 }
 
+/* line 34, ../sass/dyna-style.scss */
 .img-hover:hover {
   opacity: 0.8;
 }
 
 /* 404 Page Styles */
+/* line 39, ../sass/dyna-style.scss */
 .error-404 {
   font-size: 100px;
 }
 
 /* Pricing Page Styles */
+/* line 44, ../sass/dyna-style.scss */
 .price {
   display: block;
   font-size: 50px;
   line-height: 50px;
 }
 
+/* line 50, ../sass/dyna-style.scss */
 .price sup {
   top: -20px;
   left: 2px;
   font-size: 20px;
 }
 
+/* line 56, ../sass/dyna-style.scss */
 .period {
   display: block;
   font-style: italic;
@@ -363,56 +469,70 @@ body {
 
 /* Responsive Styles */
 @media (max-width: 991px) {
+    /* line 63, ../sass/dyna-style.scss */
   .customer-img,
   .img-related {
     margin-bottom: 30px;
   }
 }
 @media (max-width: 767px) {
+    /* line 70, ../sass/dyna-style.scss */
   .img-portfolio {
     margin-bottom: 15px;
   }
 
+    /* line 74, ../sass/dyna-style.scss */
   header.carousel .carousel {
     height: 70%;
   }
 }
 /* *************************** ****       added style *********************************************** */
 /*marketing panel */
+/* line 82, ../sass/dyna-style.scss */
 .panel-default > .panel-heading {
   background-color: #232162;
   color: white;
 }
 
+/* line 87, ../sass/dyna-style.scss */
 .panel-default > .panel-body {
-  background-color: #b31f24;
+    background-color: #B31F24;
   color: white;
   /*make them the same height*/
   min-height: 25em;
   /*color of font awesome list icons*/
 }
+
+/* line 94, ../sass/dyna-style.scss */
 .panel-default > .panel-body .fa-li {
   color: #5956c6;
 }
 
 /*Call to action button*/
+/* line 100, ../sass/dyna-style.scss */
 #call-to-action {
   background-color: #e98285;
 }
+
+/* line 102, ../sass/dyna-style.scss */
 #call-to-action .btn {
   background-color: #5956c6;
   color: white;
 }
 
 /* About us page*/
+/* line 109, ../sass/dyna-style.scss */
 .caption h3 {
   color: #5956c6;
 }
+
+/* line 111, ../sass/dyna-style.scss */
 .caption h3 small {
   color: #e98285;
 }
 
 /**** figure ****/
+/* line 118, ../sass/dyna-style.scss */
 figcaption {
   color: #d64086;
   font-style: italic;
@@ -420,9 +540,12 @@ figcaption {
 }
 
 /* tab content (description des produits )*/
+/* line 126, ../sass/dyna-style.scss */
 .tab-content {
   font-size: large;
 }
+
+/* line 128, ../sass/dyna-style.scss */
 .tab-content h4 {
   text-align: center;
   color: #31080a;
@@ -430,24 +553,93 @@ figcaption {
 }
 
 /* Page fluidisation*/
+/* line 136, ../sass/dyna-style.scss */
 #airsweep_advantages li {
   font-size: 150%;
 }
 
 /*Style font awesome list icons*/
+/* line 141, ../sass/dyna-style.scss */
 .fa-li {
   color: #d64086;
 }
 
 /*Page canon brumiseurs*/
+/* line 147, ../sass/dyna-style.scss */
 div#type-brimuseurs p {
     font-size: 120%;
 }
 
+/* line 150, ../sass/dyna-style.scss */
 div#type-brimuseurs img {
     width: 100%;
 }
 
+/* line 153, ../sass/dyna-style.scss */
+div#type-brimuseurs ul {
+    list-style: none;
+}
+
+/* line 155, ../sass/dyna-style.scss */
+div#type-brimuseurs ul li:before {
+    font-family: 'FontAwesome';
+    content: "";
+    margin: 0 5px 0 -15px;
+    color: #e98285;
+}
+
+/* line 159, ../sass/dyna-style.scss */
+div#type-brimuseurs ul ul li:before {
+    font-family: 'FontAwesome';
+    content: "";
+    margin: 0 5px 0 -15px;
+    color: #e98285;
+}
+
+/* line 168, ../sass/dyna-style.scss */
 body#page-brumisation ol {
     list-style: upper-latin;
+}
+
+/************page element filtrants  **********************/
+/* line 175, ../sass/dyna-style.scss */
+#elements-filtrants img {
+    width: 100%;
+    -moz-border-radius: 2ex;
+    -webkit-border-radius: 2ex;
+    border-radius: 2ex;
+    border: #e98285 inset 1ex;
+}
+
+/* line 180, ../sass/dyna-style.scss */
+#elements-filtrants p {
+    font-size: large;
+}
+
+/* line 183, ../sass/dyna-style.scss */
+#elements-filtrants ul {
+    list-style: none;
+}
+
+/* line 185, ../sass/dyna-style.scss */
+#elements-filtrants ul li:before {
+    font-family: 'FontAwesome';
+    content: "";
+    margin: 0 5px 0 -15px;
+    color: #e98285;
+    font-size: 120%;
+}
+
+/* line 190, ../sass/dyna-style.scss */
+#elements-filtrants ul ul li:before {
+    font-family: 'FontAwesome';
+    content: "";
+    margin: 0 5px 0 -15px;
+    color: #5956c6;
+    font-size: 120%;
+}
+
+/* line 196, ../sass/dyna-style.scss */
+#elements-filtrants #call-to-action p {
+    font-size: 100%;
 }
