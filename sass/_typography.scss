@@ -28,10 +28,23 @@
   p.text-big {
     font-size: 150%;
   }
+  .panel {
+    h4 {
+      color: white;
+    }
+  }
 }
 
 .navbar-brand {
   font-family: 'Anton', sans-serif;
+}
+
+footer {
+  .container {
+    h4 {
+      color: $dyna_dark_blue;
+    }
+  }
 }
 
 

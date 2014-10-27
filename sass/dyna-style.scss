@@ -14,9 +14,10 @@
 @import 'footer';
 @import 'hr';
 @import 'titles';
-@import "compass/css3";
+@import "compass/css3/border-radius";
 @import "mixin";
 
+/*root elements*/
 html,
 body {
   height: 100%;
@@ -24,8 +25,9 @@ body {
 
 body {
   padding-top: 50px;
-  /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
+
+/*portfolio section in the home page*/
 
 .img-portfolio {
   margin-bottom: 30px;
@@ -92,7 +94,7 @@ body {
   /*color of font awesome list icons*/
 
   .fa-li {
-    color: $dyna_light_blue;
+    color: $dyna_dark_blue;
   }
 }
 
@@ -115,11 +117,14 @@ body {
 }
 
 /**** figure ****/
-figcaption {
-  color: $dyna_red + $dyna_blue;
-  font-style: italic;
-  text-align: center;
-  // background-color:$dyna_light_red;
+figure {
+  margin-bottom: 2em;
+  figcaption {
+    color: $dyna_red + $dyna_blue;
+    font-style: italic;
+    text-align: center;
+  }
+
 }
 
 /* tab content (description des produits )*/
@@ -163,7 +168,6 @@ div#type-brimuseurs {
   }
 }
 
-//\f0da
 body#page-brumisation {
   ol {
     list-style: upper-latin;
@@ -198,5 +202,36 @@ body#page-brumisation {
   }
 }
 
+/** ****************   ************  page installation et modification d'un système **********    ********************  **/
+#page-installation-modification {
+  ul {
+    list-style: none;
+
+    li {
+      font-size: 120%;
+      &:before {
+        @include fa-list-style($content: '\f192');
+      }
+    }
+    ul {
+      li {
+        font-size: 100%;
+        &:before {
+          @include fa-list-style($color: $dyna_light_blue, $content: '\f0da');
+        }
+      }
+    }
+  }
+}
+
+/*************** page capture à la source **********************/
+#fig-outils-sablage {
+  padding-bottom: 2em;
+  img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+  }
+}
 
 
